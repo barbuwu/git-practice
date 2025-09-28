@@ -11,4 +11,3 @@ Ezek a dolgok amiket venni kellene.
 - felvágott
 - margarin
 - sajt
-- majonéz
