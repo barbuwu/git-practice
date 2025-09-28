@@ -1,19 +1,13 @@
-\# Bevásárlólista
-
+# Bevásárlólista
 Ezek a dolgok amiket venni kellene.
 
+## Háztartási felszerelés
+- zsebkendő
+- mosogatószer
+- öblítő
 
-
-\## Háztartási felszerelés
-
-\- zsebkendő
-
-\- mosogatószer
-
-\- öblítő
-
-\## Melegszendvicshez
-\- kenyér
-\- felvágott
-\- margarin
-\- sajt
+## Melegszendvicshez
+- kenyér
+- felvágott
+- margarin
+- sajt
