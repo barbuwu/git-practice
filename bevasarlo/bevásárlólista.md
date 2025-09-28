@@ -16,3 +16,4 @@ Ezek a dolgok amiket venni kellene.
 * sajt
 * majonéz
 * uborka
+* juhtúró
