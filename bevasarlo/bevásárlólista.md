@@ -12,8 +12,8 @@ Ezek a dolgok amiket venni kellene.
 
 \- öblítő
 
-## Melegszendvicshez
-- kenyér
-- felvágott
-- margarin
-- sajt
+\## Melegszendvicshez
+\- kenyér
+\- felvágott
+\- margarin
+\- sajt
